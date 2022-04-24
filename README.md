@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, I'm Sari!
+### I'm a Software Engineer, Web Developer, and Ex-Structural Engineer
+
+- 😄 Pronouns: she/her
+- 🔭 I’m currently building a React component library and Spotify Web API applications
+- 🌱 I'm currently developing my React and UI/UX skills
+- 👀 Recent projects: [Tempo-ify](https://tempo-ify.herokuapp.com/)
+- 📫 Contact me: [Linkedin](https://www.linkedin.com/in/sarikwee/)
+- 🖥 [Website](https://sarikwee.herokuapp.com/)
 
 <!--
 **sarikwee/sarikwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
